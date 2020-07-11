@@ -1,2 +1,2 @@
 # MNIST_Digit_Recognizer
-This is my first Deep Learning project
+This is my first Deep Learning model
